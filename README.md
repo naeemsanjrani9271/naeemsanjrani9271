@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-naeemsanjrani9271/naeemsanjrani9271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+naeemsanjrani9271/naeemsanjrani9271 is a ✨ special for learning 
+and so on moving.
